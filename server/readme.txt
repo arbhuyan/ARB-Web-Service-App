@@ -1,9 +1,9 @@
 /* ------------------------- PACKAGE INFO -----------------------
 
-	Package Name 	: 	ARB Web Service App
+	Package Name 		: 	ARB Web Service App
 	Author Name		: 	MD. Anisur Rahman Bhuyan
 	Author URI 		: 	http://anisbd.com
-	Author Email 	: 	tahian8@gmail.com
+	Author Email 		: 	tahian8@gmail.com
 	Licence			:	Open Source GPLv2
 	Created 		:	02-11-2015
 
