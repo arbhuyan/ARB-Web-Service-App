@@ -41,5 +41,5 @@ CONCLUSION
 	Thank you
 	MD. Anisur Rahman Bhuyan
 	tahian8@gmail.com
-	htpp://anisbd.com
+	http://anisbd.com
 	Chittagong, Bangladesh
